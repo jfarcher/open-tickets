@@ -1,0 +1,14 @@
+Thank you for updating your support ticket #<<ticket>> <b>(<<problem>>)</b><br><br>
+
+This is an automated response to let you know that our system has received and logged your trouble update.<br><br>
+
+Your update: <<update>><BR>
+
+We will respond to your update shortly. Thank you.<br><br>
+Important: If you respond to this email address please include your ticket number in the subject.<br><br>
+<br>
+The Current status of your ticket:
+Priority: <<priority>><br>
+Status:	  <<status>><br>
+
+

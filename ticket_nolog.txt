@@ -1,0 +1,10 @@
+Thank you trying to log a ticket with Arcnet IT Solutions.
+
+Unfortunately your ticket hasn't been logged into our system for action due to
+the following reason: <br>
+
+<<reason>><br><br> 
+
+Sorry for any inconvenience caused.
+
+

@@ -1,0 +1,13 @@
+This is an automated notification to inform you that your support ticket #<<ticket>> <b>(<<problem>>)</b> has just been closed<br><br>
+
+Close description: <<desc>><BR>
+<BR>
+Many thanks for using Arcnet support, we hope the service we provide is satisfactory to your requirements.<BR>
+<BR>
+Please don't hesitate to contact us for future IT services and support<br>
+<BR>
+Also you may be interested in our latest products and solutions, for these please see our website
+<BR><BR>
+
+Thanks
+

@@ -1,0 +1,16 @@
+Your support ticket #<<ticket>> <b>(<<problem>>)</b> has been updated by one of our technicians<br><br>
+
+This is an automated notification, one of our technicians has responded to your ticket.<br>
+Please respond with any feedback required as soon as possible so we can act if required.<br><br>
+
+Update: <<update>><BR>
+
+Imortant: Please respond to this email address and please include your ticket number in the subject in the form of:<br>
+[#<<ticket>>] <BR><BR>
+
+<br>
+The Current status of your ticket:
+Priority: <<priority>><br>
+Status:	  <<status>><br>
+
+

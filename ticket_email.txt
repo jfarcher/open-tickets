@@ -1,0 +1,14 @@
+Thank you for logging a support ticket<BR><BR>
+
+Your ticket number is <<ticket>><BR><BR>
+
+This is an automated response to let you know that our system has received and logged your trouble ticket.<br><br>
+
+Your ticket has entered into the queue and will be assigned to the relevant technician shortly.<BR><br>
+
+Thank you.<br><br>
+Important: If you respond to this email address please include your ticket number in the subject in square brackets as follows <br><br>
+[#<<ticket>>] subject line<BR><BR>
+
+or you can simply reply to this email.<BR>
+You can view your ticket anytime by visiting the following link:<br>
