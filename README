@@ -68,3 +68,10 @@ message tidy up for storage and display - seems to be working pretty well, just 
 
 
 
+message types:
+1 = initial ticket description
+2 = standard message
+3 = private message
+4 = close description
+5 = System Message
+6 = assignment
