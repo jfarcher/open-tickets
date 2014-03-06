@@ -1,4 +1,5 @@
 PHP Based ticketing/helpdesk system.
+[![Stories in Ready](https://badge.waffle.io/jfarcher/open-tickets.png?label=ready&title=Ready)](http://waffle.io/jfarcher/open-tickets)
 I half created this a long time ago and am only just getting around to publishing the code.
 
 This code probably won't work out of the box for you... Yet. (But should work with a little effort)
