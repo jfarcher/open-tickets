@@ -30,8 +30,15 @@ header("location:$page");
 }
 }
 else {
+echo "$ticketsuser<BR>";
+echo "$ticketspass<BR>";
 echo "Error invalid username or password";
+if (!$falseid){
+$falseid=1;
+}
+else{
 $falseid="$falseid+1";
+}
 $_SESSION['falseid']=$falseid;
 //session_register("falseid");
 }
