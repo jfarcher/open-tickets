@@ -1,6 +1,6 @@
 <?php
 session_start();
-if(!session_is_registered("ticketsuser")){
+if(!isset($_SESSION["ticketsuser"])){
 
 $page=$_GET["page"];
 
